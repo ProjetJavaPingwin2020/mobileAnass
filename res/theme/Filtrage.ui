@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Filtrage" cloudDestinationProperty="Filtrage" >
+  <component type="Slider" name="Slider" cloudDestinationProperty="Slider" focusable="true" snapToGrid="true" text="" editable="true" maxValue="500" >
+  </component>
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Label" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" focusable="true" text="Button" >
+  </component>
+  <component type="List" name="List" cloudDestinationProperty="List" >
+    <stringItem value="Item 1" />
+    <stringItem value="Item 2" />
+    <stringItem value="Item 3" />
+  </component>
+</component>
